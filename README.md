@@ -1,4 +1,4 @@
-### Hello! <img src"https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
+### Hello there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
 <!--
 **andrecarvalhozn/andrecarvalhozn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
