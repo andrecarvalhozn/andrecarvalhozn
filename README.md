@@ -1,6 +1,6 @@
-### Hello there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, my name is André an I'm a soon-to-be graduate diving into the world of tech after studying Computer Science at CESAR School. I'm all about creation and exploration on the web, especially when it comes to front-end magic using HTML, CSS, and JavaScript.
+### Hello there! my name is André an I'm a soon-to-be graduate diving into the world of tech after studying Computer Science at CESAR School. I'm all about creation and exploration on the web, especially when it comes to front-end magic using HTML, CSS, and JavaScript.
 
-###  Throughout my time in university, I found myself in a continuous process to polish my skills, crafting useful and user-friendly websites. But besides the front end part – I'm a huge enthusiast for Java and Python, and I'm always excited about the possibilities of what you could achieve using them. <img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px">
+###  Throughout my time in university, I found myself in a continuous process to polish my skills, crafting useful and user-friendly websites. But besides the front end part – I'm a huge enthusiast for Java and Python, and I'm always excited about the possibilities of what you could achieve using them.
 
 <!--
 **andrecarvalhozn/andrecarvalhozn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
